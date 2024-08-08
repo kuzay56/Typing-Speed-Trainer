@@ -1,6 +1,6 @@
 import { FunctionComponent } from 'react'
 
-import './../styles/Test.css'
+import '../styles/Test.css'
 
 import { useAppDispatch, useAppSelector } from '../redux/hooks'
 import { resetSeconds } from '../redux/store/timerSlice'

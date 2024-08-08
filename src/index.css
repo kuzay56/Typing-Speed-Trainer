@@ -1,4 +1,4 @@
-@import './styles/const.ts';
+@import './styles/Variables.css';
 
 * {
 	box-sizing: border-box;
